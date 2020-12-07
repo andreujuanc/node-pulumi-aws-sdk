@@ -1,0 +1,1 @@
+docker build -t andreujuanc/lambada-base:1.0.1 -f base.Dockerfile .
